@@ -86,7 +86,7 @@ The dashboard was designed as a **1920 × 1080 one-page report** using a 2 × 2 
 
 ## Dashboard
 
-![Power BI Dashboard](screenshots/dashboard.png)
+![Power BI Dashboard](screenshots/project4.png)
 
 ## Key Analysis
 
